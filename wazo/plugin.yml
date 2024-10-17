@@ -1,0 +1,12 @@
+name: wazo-auth-saml-logout-session-purge
+namespace: wazocommunication
+version: 1.0.0
+author: Wazo authors
+display_name: Fix SAML logout issues
+plugin_format_version: 1
+min_wazo_version: 24.13
+max_wazo_version: 24.14
+tags:
+  - logout
+  - saml
+homepage: https://github.com/wazo-communication/wazo-auth-saml-logout-session-purge-plugin
